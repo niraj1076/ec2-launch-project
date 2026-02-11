@@ -2,7 +2,7 @@
 
 ## Architecture Diagram
 
-![EC2 Architecture](images/ec2-architecture.png)
+![EC2 Architecture](architecture.png)
 
 ---
 
