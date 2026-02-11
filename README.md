@@ -1,5 +1,11 @@
 # EC2 Launch Project (AWS)
 
+## Architecture Diagram
+
+![EC2 Architecture](images/ec2-architecture.png)
+
+---
+
 ## Project Overview
 
 This project demonstrates how to:
@@ -12,15 +18,19 @@ This project demonstrates how to:
 
 ---
 
+
+
 # Project Structure
 
 ```
 ec2-launch-project/
 │
 ├── README.md
+├── architecture.png   
 ├── scripts/
 │   └── install-nginx.sh
 └── .gitignore
+
 ```
 
 ---
