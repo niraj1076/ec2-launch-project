@@ -1,8 +1,3 @@
-Here is your **ready-to-use README.md**.
-Copy everything below and paste directly into your `README.md`.
-
----
-
 # EC2 Launch Project (AWS)
 
 ## Project Overview
